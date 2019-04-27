@@ -5,7 +5,7 @@
 	
 	<ResearchTabDef>
 		<defName>sd_adv_powergen_ResearchTab</defName>
-		<label>[sd]advanced powergeneration</label>
+		<label>Advanced power generation</label>
 	</ResearchTabDef>
 
 </Defs>
